@@ -1,5 +1,14 @@
 import employeesData from "../mockData/employees.json";
 
+// Simulate API delay
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+// Get all employees
+export const getAllEmployees = async () => {
+  await delay(300);
+  return [...employeesData];
+};
+
 // Get employees by department
 export const getEmployeesByDepartment = async (departmentName) => {
   // Simulate API delay
@@ -15,15 +24,6 @@ export const getEmployeesByDepartment = async (departmentName) => {
   );
   
   return departmentEmployees;
-};
-
-// Simulate API delay
-const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-// Get all employees
-export const getAllEmployees = async () => {
-  await delay(300);
-  return [...employeesData];
 };
 
 export const getEmployeesWithTimeStatus = async () => {
