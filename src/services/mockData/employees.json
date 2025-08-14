@@ -1,0 +1,332 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "email": "sarah.johnson@teamhub.pro",
+    "phone": "+1 (555) 123-4567",
+    "photo": "",
+    "position": "Senior Software Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2022-01-15",
+    "location": "New York, NY",
+    "manager": "John Smith",
+    "emergencyContact": {
+      "name": "Michael Johnson",
+      "relationship": "Spouse",
+      "phone": "+1 (555) 987-6543"
+    },
+    "employmentHistory": [
+      {
+        "position": "Software Engineer",
+        "company": "Tech Solutions Inc",
+        "startDate": "2020-03-01",
+        "endDate": "2021-12-31"
+      },
+      {
+        "position": "Junior Developer",
+        "company": "StartupXYZ",
+        "startDate": "2018-06-01",
+        "endDate": "2020-02-28"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "email": "michael.chen@teamhub.pro",
+    "phone": "+1 (555) 234-5678",
+    "photo": "",
+    "position": "Product Manager",
+    "department": "Product",
+    "status": "Active",
+    "startDate": "2021-08-20",
+    "location": "San Francisco, CA",
+    "manager": "Lisa Davis",
+    "emergencyContact": {
+      "name": "Anna Chen",
+      "relationship": "Sister",
+      "phone": "+1 (555) 876-5432"
+    },
+    "employmentHistory": [
+      {
+        "position": "Associate Product Manager",
+        "company": "InnovateCorp",
+        "startDate": "2019-09-01",
+        "endDate": "2021-07-31"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "firstName": "Emily",
+    "lastName": "Rodriguez",
+    "email": "emily.rodriguez@teamhub.pro",
+    "phone": "+1 (555) 345-6789",
+    "photo": "",
+    "position": "UX Designer",
+    "department": "Design",
+    "status": "Active",
+    "startDate": "2022-03-10",
+    "location": "Austin, TX",
+    "manager": "David Wilson",
+    "emergencyContact": {
+      "name": "Carlos Rodriguez",
+      "relationship": "Father",
+      "phone": "+1 (555) 765-4321"
+    },
+    "employmentHistory": [
+      {
+        "position": "UI/UX Designer",
+        "company": "Creative Agency",
+        "startDate": "2020-01-15",
+        "endDate": "2022-02-28"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "firstName": "David",
+    "lastName": "Thompson",
+    "email": "david.thompson@teamhub.pro",
+    "phone": "+1 (555) 456-7890",
+    "photo": "",
+    "position": "Marketing Director",
+    "department": "Marketing",
+    "status": "Active",
+    "startDate": "2020-11-05",
+    "location": "Chicago, IL",
+    "manager": "Jennifer Lee",
+    "emergencyContact": {
+      "name": "Sarah Thompson",
+      "relationship": "Spouse",
+      "phone": "+1 (555) 654-3210"
+    },
+    "employmentHistory": [
+      {
+        "position": "Senior Marketing Manager",
+        "company": "Brand Solutions",
+        "startDate": "2018-05-01",
+        "endDate": "2020-10-31"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "firstName": "Jessica",
+    "lastName": "Williams",
+    "email": "jessica.williams@teamhub.pro",
+    "phone": "+1 (555) 567-8901",
+    "photo": "",
+    "position": "Data Analyst",
+    "department": "Analytics",
+    "status": "Leave",
+    "startDate": "2021-06-14",
+    "location": "Seattle, WA",
+    "manager": "Robert Garcia",
+    "emergencyContact": {
+      "name": "Mark Williams",
+      "relationship": "Brother",
+      "phone": "+1 (555) 543-2109"
+    },
+    "employmentHistory": [
+      {
+        "position": "Junior Data Analyst",
+        "company": "DataTech Corp",
+        "startDate": "2020-02-01",
+        "endDate": "2021-05-31"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "firstName": "Alex",
+    "lastName": "Kim",
+    "email": "alex.kim@teamhub.pro",
+    "phone": "+1 (555) 678-9012",
+    "photo": "",
+    "position": "DevOps Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2022-05-01",
+    "location": "Denver, CO",
+    "manager": "John Smith",
+    "emergencyContact": {
+      "name": "Linda Kim",
+      "relationship": "Mother",
+      "phone": "+1 (555) 432-1098"
+    },
+    "employmentHistory": [
+      {
+        "position": "Systems Administrator",
+        "company": "CloudTech Solutions",
+        "startDate": "2019-08-15",
+        "endDate": "2022-04-30"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "firstName": "Rachel",
+    "lastName": "Brown",
+    "email": "rachel.brown@teamhub.pro",
+    "phone": "+1 (555) 789-0123",
+    "photo": "",
+    "position": "HR Specialist",
+    "department": "Human Resources",
+    "status": "Active",
+    "startDate": "2021-02-28",
+    "location": "Boston, MA",
+    "manager": "Amanda Taylor",
+    "emergencyContact": {
+      "name": "Tom Brown",
+      "relationship": "Father",
+      "phone": "+1 (555) 321-0987"
+    },
+    "employmentHistory": [
+      {
+        "position": "HR Coordinator",
+        "company": "People First Inc",
+        "startDate": "2019-11-01",
+        "endDate": "2021-01-31"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "firstName": "James",
+    "lastName": "Davis",
+    "email": "james.davis@teamhub.pro",
+    "phone": "+1 (555) 890-1234",
+    "photo": "",
+    "position": "Sales Manager",
+    "department": "Sales",
+    "status": "Active",
+    "startDate": "2020-09-15",
+    "location": "Miami, FL",
+    "manager": "Patricia Martinez",
+    "emergencyContact": {
+      "name": "Helen Davis",
+      "relationship": "Mother",
+      "phone": "+1 (555) 210-9876"
+    },
+    "employmentHistory": [
+      {
+        "position": "Sales Representative",
+        "company": "SalesForce Pro",
+        "startDate": "2018-03-01",
+        "endDate": "2020-08-31"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "firstName": "Lisa",
+    "lastName": "Anderson",
+    "email": "lisa.anderson@teamhub.pro",
+    "phone": "+1 (555) 901-2345",
+    "photo": "",
+    "position": "Finance Manager",
+    "department": "Finance",
+    "status": "Inactive",
+    "startDate": "2019-12-01",
+    "location": "Phoenix, AZ",
+    "manager": "Kevin Johnson",
+    "emergencyContact": {
+      "name": "Paul Anderson",
+      "relationship": "Spouse",
+      "phone": "+1 (555) 109-8765"
+    },
+    "employmentHistory": [
+      {
+        "position": "Senior Accountant",
+        "company": "Financial Services LLC",
+        "startDate": "2017-06-01",
+        "endDate": "2019-11-30"
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "firstName": "Chris",
+    "lastName": "Wilson",
+    "email": "chris.wilson@teamhub.pro",
+    "phone": "+1 (555) 012-3456",
+    "photo": "",
+    "position": "Quality Assurance Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "startDate": "2021-10-12",
+    "location": "Portland, OR",
+    "manager": "John Smith",
+    "emergencyContact": {
+      "name": "Emma Wilson",
+      "relationship": "Sister",
+      "phone": "+1 (555) 098-7654"
+    },
+    "employmentHistory": [
+      {
+        "position": "QA Tester",
+        "company": "TestQuality Inc",
+        "startDate": "2020-04-01",
+        "endDate": "2021-09-30"
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "firstName": "Maria",
+    "lastName": "Garcia",
+    "email": "maria.garcia@teamhub.pro",
+    "phone": "+1 (555) 123-4570",
+    "photo": "",
+    "position": "Content Writer",
+    "department": "Marketing",
+    "status": "Active",
+    "startDate": "2022-07-18",
+    "location": "Los Angeles, CA",
+    "manager": "David Thompson",
+    "emergencyContact": {
+      "name": "Jose Garcia",
+      "relationship": "Brother",
+      "phone": "+1 (555) 987-6540"
+    },
+    "employmentHistory": [
+      {
+        "position": "Freelance Writer",
+        "company": "Various Clients",
+        "startDate": "2020-01-01",
+        "endDate": "2022-06-30"
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "firstName": "Robert",
+    "lastName": "Taylor",
+    "email": "robert.taylor@teamhub.pro",
+    "phone": "+1 (555) 234-5671",
+    "photo": "",
+    "position": "Customer Success Manager",
+    "department": "Customer Success",
+    "status": "Active",
+    "startDate": "2021-04-05",
+    "location": "Nashville, TN",
+    "manager": "Michelle Adams",
+    "emergencyContact": {
+      "name": "Betty Taylor",
+      "relationship": "Mother",
+      "phone": "+1 (555) 876-5431"
+    },
+    "employmentHistory": [
+      {
+        "position": "Account Manager",
+        "company": "Client Solutions Group",
+        "startDate": "2019-02-15",
+        "endDate": "2021-03-31"
+      }
+    ]
+  }
+]

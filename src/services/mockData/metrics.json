@@ -1,0 +1,34 @@
+[
+  {
+    "label": "Total Employees",
+    "value": "142",
+    "change": 8,
+    "trend": "up",
+    "icon": "Users",
+    "gradient": "from-primary-500 to-primary-600"
+  },
+  {
+    "label": "New Hires",
+    "value": "12",
+    "change": 15,
+    "trend": "up",
+    "icon": "UserPlus",
+    "gradient": "from-success-500 to-green-600"
+  },
+  {
+    "label": "Departments",
+    "value": "8",
+    "change": 0,
+    "trend": "neutral",
+    "icon": "Building2",
+    "gradient": "from-blue-500 to-blue-600"
+  },
+  {
+    "label": "Open Positions",
+    "value": "5",
+    "change": -20,
+    "trend": "down",
+    "icon": "Briefcase",
+    "gradient": "from-purple-500 to-purple-600"
+  }
+]
