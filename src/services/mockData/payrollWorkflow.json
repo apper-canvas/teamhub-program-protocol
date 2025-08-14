@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "payPeriodId": 4,
+    "step": "hours_import",
+    "title": "Import Hours",
+    "description": "Import time tracking data from attendance system",
+    "status": "completed",
+    "completedAt": "2024-02-28T09:00:00Z",
+    "completedBy": "System",
+    "data": {
+      "totalHours": 970,
+      "regularHours": 940,
+      "overtimeHours": 30,
+      "employeesProcessed": 12
+    }
+  },
+  {
+    "Id": 2,
+    "payPeriodId": 4,
+    "step": "deductions",
+    "title": "Calculate Deductions",
+    "description": "Calculate taxes, benefits, and other deductions",
+    "status": "completed",
+    "completedAt": "2024-02-28T10:15:00Z",
+    "completedBy": "HR Manager",
+    "data": {
+      "federalTax": 13200.00,
+      "stateTax": 4400.00,
+      "socialSecurity": 5480.80,
+      "medicare": 1281.60,
+      "benefits": 4200.00
+    }
+  },
+  {
+    "Id": 3,
+    "payPeriodId": 4,
+    "step": "calculations",
+    "title": "Gross to Net Calculations",
+    "description": "Calculate final net pay amounts",
+    "status": "completed",
+    "completedAt": "2024-02-28T11:30:00Z",
+    "completedBy": "HR Manager",
+    "data": {
+      "totalGross": 88400.00,
+      "totalDeductions": 22480.00,
+      "totalNet": 65920.00
+    }
+  },
+  {
+    "Id": 4,
+    "payPeriodId": 4,
+    "step": "approval",
+    "title": "Payroll Approval",
+    "description": "Final review and approval for processing",
+    "status": "pending",
+    "completedAt": null,
+    "completedBy": null,
+    "data": {
+      "requiresApproval": true,
+      "approvalLevel": "manager",
+      "notificationsSent": true
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "payPeriodId": 4,
+    "employeeId": 1,
+    "regularHours": 80,
+    "overtimeHours": 5,
+    "grossPay": 7800.00,
+    "federalTax": 1170.00,
+    "stateTax": 390.00,
+    "socialSecurity": 483.60,
+    "medicare": 113.10,
+    "healthInsurance": 350.00,
+    "retirement401k": 390.00,
+    "netPay": 4903.30,
+    "status": "calculated"
+  },
+  {
+    "Id": 2,
+    "payPeriodId": 4,
+    "employeeId": 2,
+    "regularHours": 80,
+    "overtimeHours": 0,
+    "grossPay": 6400.00,
+    "federalTax": 960.00,
+    "stateTax": 320.00,
+    "socialSecurity": 396.80,
+    "medicare": 92.80,
+    "healthInsurance": 350.00,
+    "retirement401k": 320.00,
+    "netPay": 3960.40,
+    "status": "calculated"
+  },
+  {
+    "Id": 3,
+    "payPeriodId": 4,
+    "employeeId": 3,
+    "regularHours": 80,
+    "overtimeHours": 2,
+    "grossPay": 7200.00,
+    "federalTax": 1080.00,
+    "stateTax": 360.00,
+    "socialSecurity": 446.40,
+    "medicare": 104.40,
+    "healthInsurance": 350.00,
+    "retirement401k": 360.00,
+    "netPay": 4499.20,
+    "status": "calculated"
+  }
+]

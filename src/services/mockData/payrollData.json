@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "payPeriodStart": "2024-01-01",
+    "payPeriodEnd": "2024-01-15",
+    "payDate": "2024-01-20",
+    "status": "completed",
+    "totalGross": 87500.00,
+    "totalNet": 65250.00,
+    "employeeCount": 12,
+    "hoursProcessed": 960,
+    "processedBy": "HR Manager",
+    "processedDate": "2024-01-18T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "payPeriodStart": "2024-01-16",
+    "payPeriodEnd": "2024-01-31",
+    "payDate": "2024-02-05",
+    "status": "completed",
+    "totalGross": 89200.00,
+    "totalNet": 66480.00,
+    "employeeCount": 12,
+    "hoursProcessed": 980,
+    "processedBy": "HR Manager",
+    "processedDate": "2024-02-02T14:15:00Z"
+  },
+  {
+    "Id": 3,
+    "payPeriodStart": "2024-02-01",
+    "payPeriodEnd": "2024-02-15",
+    "payDate": "2024-02-20",
+    "status": "completed",
+    "totalGross": 85600.00,
+    "totalNet": 63840.00,
+    "employeeCount": 12,
+    "hoursProcessed": 940,
+    "processedBy": "HR Manager",
+    "processedDate": "2024-02-17T09:45:00Z"
+  },
+  {
+    "Id": 4,
+    "payPeriodStart": "2024-02-16",
+    "payPeriodEnd": "2024-02-29",
+    "payDate": "2024-03-05",
+    "status": "processing",
+    "totalGross": 88400.00,
+    "totalNet": 65920.00,
+    "employeeCount": 12,
+    "hoursProcessed": 970,
+    "processedBy": null,
+    "processedDate": null
+  },
+  {
+    "Id": 5,
+    "payPeriodStart": "2024-03-01",
+    "payPeriodEnd": "2024-03-15",
+    "payDate": "2024-03-20",
+    "status": "pending",
+    "totalGross": 0,
+    "totalNet": 0,
+    "employeeCount": 12,
+    "hoursProcessed": 0,
+    "processedBy": null,
+    "processedDate": null
+  },
+  {
+    "Id": 6,
+    "payPeriodStart": "2024-03-16",
+    "payPeriodEnd": "2024-03-31",
+    "payDate": "2024-04-05",
+    "status": "scheduled",
+    "totalGross": 0,
+    "totalNet": 0,
+    "employeeCount": 12,
+    "hoursProcessed": 0,
+    "processedBy": null,
+    "processedDate": null
+  }
+]
