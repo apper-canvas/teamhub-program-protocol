@@ -1,37 +1,72 @@
 [
   {
     "type": "hire",
-    "title": "Sarah Johnson joined the Engineering team",
+    "title": "Sarah Johnson joined the Engineering team as Senior Developer",
     "time": "2 hours ago",
     "bgColor": "bg-success-100",
     "textColor": "text-success-600"
   },
   {
-    "type": "leave",
-    "title": "Michael Chen submitted a vacation request",
+    "type": "promotion", 
+    "title": "Michael Chen promoted to Team Lead in Marketing",
     "time": "4 hours ago",
-    "bgColor": "bg-warning-100",
-    "textColor": "text-warning-600"
-  },
-  {
-    "type": "update",
-    "title": "Emily Rodriguez updated her profile information",
-    "time": "6 hours ago",
-    "bgColor": "bg-primary-100",
-    "textColor": "text-primary-600"
-  },
-  {
-    "type": "review",
-    "title": "Quarterly performance reviews are due next week",
-    "time": "1 day ago",
     "bgColor": "bg-purple-100",
     "textColor": "text-purple-600"
   },
   {
-    "type": "policy",
-    "title": "New remote work policy has been published",
+    "type": "birthday",
+    "title": "🎂 Happy Birthday to Emily Rodriguez in HR!",
+    "time": "6 hours ago",
+    "bgColor": "bg-pink-100",
+    "textColor": "text-pink-600"
+  },
+  {
+    "type": "departure",
+    "title": "David Kim's last day - farewell celebration at 3pm",
+    "time": "8 hours ago",
+    "bgColor": "bg-orange-100", 
+    "textColor": "text-orange-600"
+  },
+  {
+    "type": "hire",
+    "title": "Lisa Park started as UX Designer in Product team",
+    "time": "1 day ago",
+    "bgColor": "bg-success-100",
+    "textColor": "text-success-600"
+  },
+  {
+    "type": "birthday",
+    "title": "🎂 Alex Thompson celebrating birthday in Finance",
+    "time": "1 day ago", 
+    "bgColor": "bg-pink-100",
+    "textColor": "text-pink-600"
+  },
+  {
+    "type": "promotion",
+    "title": "Jennifer Wu advanced to Senior Analyst role",
     "time": "2 days ago",
-    "bgColor": "bg-blue-100",
-    "textColor": "text-blue-600"
+    "bgColor": "bg-purple-100",
+    "textColor": "text-purple-600"
+  },
+  {
+    "type": "hire",
+    "title": "Roberto Silva joined Operations as Process Manager",
+    "time": "3 days ago",
+    "bgColor": "bg-success-100", 
+    "textColor": "text-success-600"
+  },
+  {
+    "type": "departure",
+    "title": "Maria Gonzalez completed her internship program",
+    "time": "4 days ago",
+    "bgColor": "bg-orange-100",
+    "textColor": "text-orange-600"
+  },
+  {
+    "type": "birthday",
+    "title": "🎂 Birthday wishes to Ryan O'Connor in Sales",
+    "time": "5 days ago",
+    "bgColor": "bg-pink-100",
+    "textColor": "text-pink-600"
   }
 ]

@@ -8,27 +8,31 @@
     "gradient": "from-primary-500 to-primary-600"
   },
   {
-    "label": "New Hires",
-    "value": "12",
-    "change": 15,
+    "label": "Active Today",
+    "value": "134",
+    "change": 94,
     "trend": "up",
-    "icon": "UserPlus",
-    "gradient": "from-success-500 to-green-600"
-  },
-  {
-    "label": "Departments",
-    "value": "8",
-    "change": 0,
-    "trend": "neutral",
-    "icon": "Building2",
-    "gradient": "from-blue-500 to-blue-600"
+    "icon": "UserCheck",
+    "gradient": "from-success-500 to-green-600",
+    "subtitle": "94% attendance"
   },
   {
     "label": "Open Positions",
-    "value": "5",
-    "change": -20,
-    "trend": "down",
+    "value": "7",
+    "change": 40,
+    "trend": "up",
     "icon": "Briefcase",
-    "gradient": "from-purple-500 to-purple-600"
+    "gradient": "from-orange-500 to-red-500",
+    "urgent": true,
+    "subtitle": "3 urgent"
+  },
+  {
+    "label": "Avg Tenure",
+    "value": "3.2y",
+    "change": 5,
+    "trend": "up",
+    "icon": "TrendingUp",
+    "gradient": "from-blue-500 to-purple-600",
+    "subtitle": "+0.2 from last quarter"
   }
 ]
