@@ -1,5 +1,22 @@
 import employeesData from "../mockData/employees.json";
 
+// Get employees by department
+export const getEmployeesByDepartment = async (departmentName) => {
+  // Simulate API delay
+  await delay(500);
+  
+  if (!departmentName) {
+    throw new Error('Department name is required');
+  }
+  
+  // Filter employees by department name
+  const departmentEmployees = [...employeesData].filter(employee => 
+    employee.department.toLowerCase() === departmentName.toLowerCase()
+  );
+  
+  return departmentEmployees;
+};
+
 // Simulate API delay
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
